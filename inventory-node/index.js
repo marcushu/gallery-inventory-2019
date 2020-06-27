@@ -12,14 +12,6 @@ app.use(cors());
 var jsonParser = bodyParser.json();
 
 
-
-/*
- *  Test api working.
- */
-app.get('/', (req, res) => {
-    res.sendFile('./artists.pdf', { root: __dirname });
-})
-
 /*
  *  Return all artist
  */
