@@ -14,7 +14,7 @@
     "chart.js": ">=2.9.4",
     "color-string": ">=1.5.5",
     "core-js": "^3.6.5",
-    "glob-parent": ">=5.1.2",
+    "glob-parent": ">=6.0.1",
     "hosted-git-info": ">=2.8.9",
     "is-svg": ">=4.3.0",
     "lodash": ">=4.17.21",
